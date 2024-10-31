@@ -1,0 +1,97 @@
+# Copyright (C) 2015 randomPost
+# This file is distributed under the same license as the randomPost package.
+msgid ""
+msgstr ""
+"Project-Id-Version: randomPost 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/randompost\n"
+"POT-Creation-Date: 2015-11-17 03:13:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: randompost.php:94
+msgid "randomPost URL slug updated!"
+msgstr ""
+
+#: randompost.php:130
+msgid "General Settings:"
+msgstr ""
+
+#: randompost.php:137
+msgid "URL Slug:"
+msgstr ""
+
+#: randompost.php:145
+msgid "Hotkey Enabled:"
+msgstr ""
+
+#: randompost.php:153
+msgid "Hotkey ID:"
+msgstr ""
+
+#: randompost.php:201
+msgid "Change randomPost settings."
+msgstr ""
+
+#: randompost.php:212
+msgid "Default: random"
+msgstr ""
+
+#: randompost.php:214
+msgid ""
+"Changes the URL slug for your random post URL. Be careful when changing this "
+"as it might cause problems with your WordPress website."
+msgstr ""
+
+#: randompost.php:216
+msgid "We recommend only using the word <b>random</b>. For example:"
+msgstr ""
+
+#: randompost.php:218
+msgid ""
+"Tip: add this URL to your WordPress menu to invite your visitors to read a "
+"random post right from the menu!"
+msgstr ""
+
+#: randompost.php:228
+msgid ""
+"Default: checked (enabled)<br>Enable or disable the keyboard hotkey. "
+"Enabling adds some JavaScript to your site that allows your visitors to "
+"press a key on their keyboard to view a random post."
+msgstr ""
+
+#: randompost.php:237
+msgid ""
+"Default: 82 (R key)<br>Change the JavaScript hotkey. When a visitor presses "
+"the R key, it will show them random post. The number in this box has to "
+"represent the JavaScript character code for the keyboard key mapping. For "
+"example: if you want to use P as the hotkey, you would enter 80."
+msgstr ""
+
+#: randompost.php:239
+msgid "To get the ID of the key you want to use, type it into this text box:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "randomPost"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (randomPost 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (randomPost 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://obrienlabs.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily create a custom URL to redirect visitors to view random posts. "
+"Keyboard hotkey shortcuts also available for browsing random posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pat O'Brien"
+msgstr ""
